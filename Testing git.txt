@@ -9,4 +9,5 @@ git remote add origin https://github.com/raeran/appiriodx.git (origin is an alia
 git remote -v (To validate the remote has been created)
 git remote remove origin 
 git push origin master  --- first time push
-git pull origin master -- first time pull 
+git pull origin master -- first time pull
+git config --list (To check all the configuration)
