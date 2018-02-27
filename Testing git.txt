@@ -1,0 +1,12 @@
+Testing add lines and notes 
+git init
+git init --help -- For help on this command
+git config rahul.aeran rahul.aeran@appirio.com (This has total 3 versions using system,global or nothing)
+git status -- to check status of all the file and repo
+git add Testing\ git.txt  -- for staging files (You can use git add *)
+git commit -m "Testing comments"
+git remote add origin https://github.com/raeran/appiriodx.git (origin is an alias name)
+git remote -v (To validate the remote has been created)
+git remote remove origin 
+git push origin master  --- first time push
+git pull origin master -- first time pull 
