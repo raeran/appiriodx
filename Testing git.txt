@@ -11,3 +11,5 @@ git remote remove origin
 git push origin master  --- first time push
 git pull origin master -- first time pull
 git config --list (To check all the configuration)
+
+after adding git ignore 
